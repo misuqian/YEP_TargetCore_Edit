@@ -7,4 +7,6 @@
 
 比如2：技能A范围为随机2个敌人，当前只有3个敌人A,B,C存活，则技能A只能对敌人A,B,C中不同的2个人进行攻击
 
-希望能帮助到你
+##使用方法
+和[YEP_TargetCore](http://yanfly.moe/2016/02/26/yep-74-target-core/)原版一样
+范围2个随机敌人的话，在注释里面加上 <Target: 2 Random Foes>即可
