@@ -1,0 +1,5 @@
+##YEP_TargetCore_Edit
+注意:本插件非YEP_TargetCore原版。
+本插件修改了makeTargets，makeCustomTargets和getRandomTargets函数，使插件支持技能随机选择敌人时候不重复选择同一个敌人。
+
+希望能帮助到你
