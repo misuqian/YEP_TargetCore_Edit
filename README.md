@@ -9,4 +9,5 @@
 
 ##使用方法
 和[YEP_TargetCore](http://yanfly.moe/2016/02/26/yep-74-target-core/)原版一样
-范围2个随机敌人的话，在注释里面加上 <Target: 2 Random Foes>即可
+
+范围2个随机敌人的话，在注释里面加上 Target: 2 Random Foes 即可
